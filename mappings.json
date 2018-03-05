@@ -1,0 +1,5 @@
+{
+    "postId" : "$input.params('postId')"
+}
+
+https://1uigmkcdy5.execute-api.us-east-1.amazonaws.com/dev
