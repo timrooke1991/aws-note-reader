@@ -5,7 +5,7 @@
 - Download or clone the repo
 - [GitHub link](https://github.com/timrooke1991/aws-note-reader)
 
-This multimedia app that is available to view [here.](https://s3.amazonaws.com/aws-note-reader-tr/index.html)
+AWS Note Reader app that is available to view [here.](https://s3.amazonaws.com/aws-note-reader-tr/index.html)
 
 ## Project Description
 
@@ -32,7 +32,7 @@ The list of the software and languages used in the project, for example:
 
 ### [](https://github.com/timrooke1991/aws-note-reader#challenges-faced)What I learned
 
-I build this site while studying for my AWS Developer Associate exam to become more comfortable with the AWS ecosystem. It taught me a lot about how AWS resources work together. This was a 'serverless' project. Experimenting with Functions as a Service was interesting. It required me think more about what my specific functions were doing.
+I built this site while studying for my AWS Developer Associate exam to become more comfortable with the AWS ecosystem. It taught me a lot about how AWS resources work together. This was a 'serverless' project. Experimenting with Functions as a Service was interesting. It required me think more about what my specific functions were doing.
 
 ### [](https://github.com/timrooke1991/aws-note-reader#rounding-it-off)Rounding it off
 
